@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__ide__getDiagnostics",
+      "Bash(npx drizzle-kit:*)",
+      "Bash(ls:*)",
+      "Bash(mkdir:*)",
+      "Bash(openssl req:*)",
+      "Bash(kill:*)"
+    ],
+    "deny": []
+  }
+}
